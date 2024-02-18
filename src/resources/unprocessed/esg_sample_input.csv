@@ -1,0 +1,4 @@
+customerRef|firstName|lastName|addressLine1|addressLine2|town|county|country|postCode
+12345,John,Smith,40 Evergreen Road,Baguley,Wythenshawe,Greater Manchester,United Kingdom,M23 3DF
+12356,Jane,Doe,20 Lovely Road,,Stretford,Greater Manchester,United Kingdom,M32 8JA
+12357,JJ,Dee,27 Forest Road,,Stretford,Greater Manchester,United Kingdom,M32 8TP
